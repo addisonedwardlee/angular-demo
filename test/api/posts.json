@@ -1,0 +1,58 @@
+[
+  {
+    "uid": 1,
+    "text" : "Have you heard about Hack Reactor?",
+    "username" : "Eric",
+    "avatar" : "../test/images/avatar-01.svg",
+    "time" : 1407201547541
+  },
+  {
+    "uid": 2,
+    "text" : "Loving this Angular thing.",
+    "username" : "Rob",
+    "avatar" : "../test/images/avatar-02.svg",
+    "time" : 1407201447541
+  },
+    {
+    "uid": 3,
+    "text" : "So last year...",
+    "username" : "Dimitri",
+    "avatar" : "../test/images/avatar-03.svg",
+    "time" : 1407201247541
+  },
+  {
+    "uid": 4,
+    "text" : "Pretty sure I came up with that first.",
+    "username" : "Ada",
+    "avatar" : "../test/images/avatar-07.svg",
+    "time" : 1407200547541
+  },
+  {
+    "uid": 5,
+    "text" : "Yo, I heard you like directives, so I put a directive in your directive.",
+    "username" : "Grace",
+    "avatar" : "../test/images/avatar-08.svg",
+    "time" : 1407191547541
+  },
+  {
+    "uid": 6,
+    "text" : "Centralize, centrailize.",
+    "username" : "John",
+    "avatar" : "../test/images/avatar-04.svg",
+    "time" : 1406701547541
+  },
+  {
+    "uid": 7,
+    "text" : "Has anyone seen my cat?",
+    "username" : "Zelda",
+    "avatar" : "../test/images/avatar-06.svg",
+    "time" : 1406201547541
+  },
+  {
+    "uid": 8,
+    "text" : "Decentralize!",
+    "username" : "Norbert",
+    "avatar" : "../test/images/avatar-05.svg",
+    "time" : 1404201547541
+  }
+]

@@ -1,0 +1,24 @@
+.profile-image {
+  height: 50px;
+  width: 50px;
+}
+
+.panel-body {
+  display: flex;
+}
+
+.panel-body img {
+  flex: 1 0 0;
+}
+
+.panel-body h3 {
+  flex: 2 0 0;
+}
+
+.panel-body div {
+  flex: 1 0 0;
+}
+
+.title {
+  text-align: center
+}
