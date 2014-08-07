@@ -1,5 +1,5 @@
 This is a demo app that shows best practices for building Angular apps <br>
-A video of the presentation can be found [here](https://www.youtube.com/watch?v=9IBljKq4XrQ)
+A video of the presentation can be found here  <br> [https://www.youtube.com/watch?v=9IBljKq4XrQ](https://www.youtube.com/watch?v=9IBljKq4XrQ)
 
 The ```master``` branch is the completed version with notes.
 
